@@ -5,3 +5,11 @@ html {
 h1, h2, h3 {
   color: #5d8432;
 }
+
+a:link {
+  color: #793284
+}
+
+a: hover {
+  color: #b42885
+}
