@@ -1,10 +1,15 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 h1, h2, h3 {
   color: #5d8432;
+}
+
+nav {
+  font-size: 1.125rem
 }
 
 a:link {
