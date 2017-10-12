@@ -1,5 +1,6 @@
 html {
   background-color: #f2f1ed;
+  font-family: Georgia, serif;
 }
 
 h1, h2, h3 {
@@ -10,6 +11,6 @@ a:link {
   color: #793284
 }
 
-a: hover {
+a:hover {
   color: #b42885
 }
