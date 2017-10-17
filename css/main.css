@@ -6,12 +6,13 @@ html {
 
 h1, h2, h3 {
   color: #5d8432;
-  font-family: 'Patua One';
+  font-family: "Patua One";
 }
 
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua One";
 }
 
 a:link {
