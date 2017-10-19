@@ -33,3 +33,7 @@ a:link {
 a:hover {
   color: #b42885;
 }
+
+img {
+  text-align: center;
+}
