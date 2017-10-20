@@ -14,6 +14,10 @@ h2, h3, h4 {
   text-transform: uppercase;
 }
 
+main h2 {
+
+}
+
 figcaption {
   text-align: center;
   font-style: italic;
@@ -24,6 +28,10 @@ nav {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Patua One";
+}
+
+nav ol li {
+  font-size: 1.5rem;
 }
 
 a:link {
