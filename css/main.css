@@ -38,6 +38,10 @@ nav {
   margin-bottom: 0;
 }
 
+header nav a {
+  text-decoration: none;
+}
+
 nav a:hover {
   background-color: #b42885;
   color: #793284;
@@ -51,8 +55,4 @@ header nav ol {
 
 header nav ol li {
   margin-left: inherit;
-}
-
-header nav a {
-  text-decoration: none;
 }
