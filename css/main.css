@@ -30,6 +30,10 @@ figcaption {
   font-size: .8rem;
 }
 
+main figcaption {
+  font-size: .9rem;
+}
+
 nav {
   font-size: 1.125rem;
   font-weight: bold;
