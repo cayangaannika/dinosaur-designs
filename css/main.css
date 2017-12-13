@@ -30,7 +30,7 @@ figcaption {
   font-size: .8rem;
 }
 
-main figcaption {
+figcaption:first-child {
   font-size: .9rem;
 }
 
@@ -46,7 +46,7 @@ header nav a {
   text-decoration: none;
 }
 
-nav a:link {
+nav a:hover {
   background-color: #b42885;
   color: #793284;
 }
