@@ -46,7 +46,6 @@ header nav a {
   text-decoration: none;
 }
 
-a,
 nav a:hover {
   color: #b42885;
 }
