@@ -48,10 +48,11 @@ header nav a {
 
 nav a:hover {
   color: #b42885;
+  background-color: #793284;
 }
 
 nav a:link {
-  color: #793284;
+
 }
 
 header nav ol {
